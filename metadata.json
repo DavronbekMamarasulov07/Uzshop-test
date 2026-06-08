@@ -1,0 +1,8 @@
+{
+  "name": "Remix: E-Commerce",
+  "description": "DummyJSON API-dan foydalangan holda yaratilgan zamonaviy va qulay e-commerce veb-sayti. Mahsulotlarni qidirish, batafsil ko\u0027rish va savatcha tizimi mavjud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
